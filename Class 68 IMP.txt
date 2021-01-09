@@ -1,0 +1,19 @@
+Refer Class69 video for Reference of Class68
+
+1.expo init wireless-library
+
+After above step Go to respective file by cd command.
+
+2.expo start -c (To clear cache use -c)
+it will show some error 
+
+ 3.npm install react-native-screens
+
+Compulsory install library mentioned above along with other mentioned below as per pdf:
+
+4.npm install react-navigation
+  npm install react-navigation-tabs
+  npm install react-native-reanimated
+  npm install react-native-gesture-handler
+
+5.Check output in web browser

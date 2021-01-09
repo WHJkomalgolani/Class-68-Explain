@@ -1,0 +1,16 @@
+On CMD Update expo 38.0.0 to see output in phone.
+
+Phone expo client supports version 37 and higher.
+
+Steps:
+On Command prompt under project folder:
+for eg: cd C:\Users\user\Documents\WhiteHat\PROFESSIONAL COURSE\Module 2\C61 to C70\Class 68
+
+Write expo update 38.0.0
+It will throw warning
+git tree is dirty
+Click yes
+
+it wil take some time
+
+Then check output expo start -c
